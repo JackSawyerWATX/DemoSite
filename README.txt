@@ -12,4 +12,4 @@ Things I am woking on today are:
 
 I would like to:
 	1. Work with the Cardinal CSS framework at https://cardinalcss.com/
-	2. Also work with Gatsby framework at gatsbyjs.com 
+	2. Also work with Gatsby framework at https://www.gatsbyjs.com/
