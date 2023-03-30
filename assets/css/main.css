@@ -2810,7 +2810,7 @@ input, select, textarea {
 		}
 
 			#header header h1, #header header h2, #header header h3, #header header h4, #header header h5, #header header h6, #header header strong, #header header b {
-				color: #ffffff;
+				color: rgba(255, 255, 255, 0.7);
 			}
 
 			#header header a {
@@ -2818,7 +2818,7 @@ input, select, textarea {
 			}
 
 				#header header a:hover {
-					color: #ffffff !important;
+					color: rgba(255, 255, 255, 0.7) !important;
 				}
 
 			#header header h1 {
@@ -2832,13 +2832,13 @@ input, select, textarea {
 				}
 
 			#header header p {
-				color: #ffffff;
+				color: rgba(255, 255, 255, 0.78);
 				font-weight: 700;
 				margin: 1.5em 0 0 0;
 			}
 
 		#header .container {
-			background: rgba(255, 255, 255, 0.95);
+			background: rgba(255, 255, 255, 0.78);
 			bottom: 0;
 			left: 50%;
 			margin-left: -17.5em;
@@ -2871,7 +2871,7 @@ input, select, textarea {
 
 		#footer footer {
 			bottom: 2em;
-			color: rgba(255, 255, 255, 0.5);
+			color: rgba(255, 255, 255, 0.7);
 			left: 0;
 			position: absolute;
 			text-align: center;
