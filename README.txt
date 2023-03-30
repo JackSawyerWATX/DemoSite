@@ -1,34 +1,15 @@
-Highlights by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+					+~-~-~-~-~-+
+					| Welcome! |
+					+-~-~-~-~-~+
+March 30, 2023
+This is the new begining to my portfolio website. Here I will be listing the updates and 
+making notes for myself of things I have completed, as well as making plans for the next 
+updates.
 
+Things I am woking on today are:
+	1. Adding functionality to the contact section to send messages to my email
+	2. Adding an href to the email icon at the bottom of the page.
 
-Just a fun little single pager I whipped up to test out my new scroll events plugin
-(github.com/ajlkn/jquery.scrollex). Clean, simple, fully responsive, and loaded with
-all the usual pre-styled elements. Enjoy :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+I would like to:
+	1. Work with the Cardinal CSS framework at https://cardinalcss.com/
+	2. Also work with Gatsby framework. 
